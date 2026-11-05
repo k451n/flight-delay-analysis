@@ -1,0 +1,351 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Страница-1">
+    <mxGraphModel dx="1170" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-59" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="220" width="290" x="900" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-62" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="570" x="900" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-63" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="250" width="290" x="1180" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-75" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=east;" value="" vertex="1">
+          <mxGeometry height="80" width="1400" x="620" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-67" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="170" width="560" x="1460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-61" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="90" width="1120" x="900" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-70" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="240" width="40" x="880" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-69" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="250" width="300" x="1720" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-68" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="125" width="290" x="1460" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-65" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Визуализация и распространение" vertex="1">
+          <mxGeometry height="40" width="240" x="1620" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-64" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="90" width="300" x="1440" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-60" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="210" width="290" x="620" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-57" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="330" width="290" x="620" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-19">
+          <mxGeometry relative="1" x="0.15" as="geometry">
+            <mxPoint x="1120" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="FDA_MongoDB" vertex="1">
+          <mxGeometry height="52" width="160" x="960" y="640" as="geometry">
+            <mxRectangle height="26" width="170" x="340" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-7" parent="zkfFHV4jXpPFQw0GAbJ--13" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#d5e8d4;strokeColor=#82b366;" value="Хранить датасеты" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="zkfFHV4jXpPFQw0GAbJ--13">
+          <mxGeometry relative="1" x="-0.175" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="547" />
+              <mxPoint x="900" y="666" />
+            </Array>
+            <mxPoint x="960" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_weather_data_collection.py" vertex="1">
+          <mxGeometry height="52" width="240" x="640" y="521" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--24" parent="zkfFHV4jXpPFQw0GAbJ--17" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Собрать датасеты погоды" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="zkfFHV4jXpPFQw0GAbJ--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_flights_data_collection.py" vertex="1">
+          <mxGeometry height="52" width="240" x="920" y="760" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-16" parent="w9VvwuQ3jyEu5o4cNJE_-13" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Собрать датасет рейсов" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-27" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-36">
+          <mxGeometry relative="1" x="0.8409" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.166;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="NRrbPcQXKySkECFJ4wdb-6">
+          <mxGeometry relative="1" x="0.9042" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="730" />
+              <mxPoint x="1519.8" y="730" />
+            </Array>
+            <mxPoint x="1400" y="730" as="sourcePoint" />
+            <mxPoint x="1950" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-34" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-36">
+          <mxGeometry relative="1" x="-0.2313" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="600" />
+              <mxPoint x="1040" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-36" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.833;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" x="-0.4282" as="geometry">
+            <Array as="points">
+              <mxPoint x="1399.9" y="600" />
+              <mxPoint x="1520" y="600" />
+            </Array>
+            <mxPoint x="1520" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-37" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-19" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_main_analyzer.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1200" y="640" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-22" parent="w9VvwuQ3jyEu5o4cNJE_-19" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Провести анализ (расчеты)" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-41" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" x="-0.0255" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-43" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-26" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_results_plots.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1480" y="400" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-29" parent="w9VvwuQ3jyEu5o4cNJE_-26" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Провести анализ (графики)" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-5" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-19">
+          <mxGeometry relative="1" x="-0.4667" as="geometry">
+            <mxPoint x="1240" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-30" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="aviation_analysis.dll" vertex="1">
+          <mxGeometry height="52" width="240" x="1200" y="760" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-33" parent="w9VvwuQ3jyEu5o4cNJE_-30" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Провести анализ (расчеты)" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-35" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w9VvwuQ3jyEu5o4cNJE_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="KgtteEf8lKJv3Dhcy_WL-0">
+          <mxGeometry relative="1" x="0.1552" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="425.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-36" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="C:\...\python\results" vertex="1">
+          <mxGeometry height="52" width="160" x="960" y="520" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-39" parent="w9VvwuQ3jyEu5o4cNJE_-36" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#fff2cc;strokeColor=#d6b656;" value="Хранить .csv" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-42" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="C:\...\python\plots" vertex="1">
+          <mxGeometry height="52" width="160" x="1800" y="400" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9VvwuQ3jyEu5o4cNJE_-45" parent="w9VvwuQ3jyEu5o4cNJE_-42" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#fff2cc;strokeColor=#d6b656;" value="Хранить .png" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-33" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KgtteEf8lKJv3Dhcy_WL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-42" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KgtteEf8lKJv3Dhcy_WL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" x="0.4451" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="490" />
+              <mxPoint x="1520" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgtteEf8lKJv3Dhcy_WL-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_results.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1200" y="399.5" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgtteEf8lKJv3Dhcy_WL-3" parent="KgtteEf8lKJv3Dhcy_WL-0" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Прочесть и пересчитать результаты" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r5x0vS_x-lgROK0ozvUo-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="610" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-38" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" x="0.1058" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_bench.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1200" y="520" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-3" parent="bDpNPofICnlV0SBKofU1-0" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Сравнить C++ и Python" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_desktop_app.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1480" y="520" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-7" parent="bDpNPofICnlV0SBKofU1-4" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Развернуть графический интерфейс" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="w9VvwuQ3jyEu5o4cNJE_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-19" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" value="AeroDataBox" vertex="1">
+          <mxGeometry height="52" width="240" x="640" y="760" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-22" parent="bDpNPofICnlV0SBKofU1-19" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f8cecc;strokeColor=#b85450;" value="Предоставить данные о рейсах" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-27" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="zkfFHV4jXpPFQw0GAbJ--17">
+          <mxGeometry relative="1" x="-0.8267" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Open-Meteo " vertex="1">
+          <mxGeometry height="52" width="240" x="640" y="641" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-26" parent="bDpNPofICnlV0SBKofU1-23" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f8cecc;strokeColor=#b85450;" value="Предоставить данные о погоде" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-31" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-36">
+          <mxGeometry relative="1" x="0.234" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="600" />
+              <mxPoint x="1680" y="600" />
+            </Array>
+            <mxPoint x="1680" y="410" as="sourcePoint" />
+            <mxPoint x="1939.7600000000002" y="440.0139999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-32" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="NRrbPcQXKySkECFJ4wdb-6">
+          <mxGeometry relative="1" x="0.1609" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="620" />
+              <mxPoint x="1760" y="620" />
+              <mxPoint x="1760" y="730" />
+              <mxPoint x="1680" y="730" />
+            </Array>
+            <mxPoint x="1840" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-39" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-32" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_import.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1760" y="520" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-35" parent="bDpNPofICnlV0SBKofU1-32" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Импорт данных пользователя" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-40" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bDpNPofICnlV0SBKofU1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="bDpNPofICnlV0SBKofU1-4">
+          <mxGeometry relative="1" x="-0.2957" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1560" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-36" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_pipeline.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1480" y="640" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDpNPofICnlV0SBKofU1-39" parent="bDpNPofICnlV0SBKofU1-36" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Запустить анализ" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-4" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NRrbPcQXKySkECFJ4wdb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="zkfFHV4jXpPFQw0GAbJ--17">
+          <mxGeometry relative="1" x="0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=auto;" value="METAR " vertex="1">
+          <mxGeometry height="52" width="240" x="640" y="401" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-3" parent="NRrbPcQXKySkECFJ4wdb-0" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f8cecc;strokeColor=#b85450;" value="Предоставить данные о погоде" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-78" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NRrbPcQXKySkECFJ4wdb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#FFFFFF,#FFFFFF);" target="NRrbPcQXKySkECFJ4wdb-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FDA_build_dist.py" vertex="1">
+          <mxGeometry height="52" width="240" x="1480" y="760" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-9" parent="NRrbPcQXKySkECFJ4wdb-6" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Создать исполняемый файл" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="610" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="2020" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-72" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" value="Анализ данных" vertex="1">
+          <mxGeometry height="40" width="240" x="1200" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Сбор данных" vertex="1">
+          <mxGeometry height="40" width="240" x="780" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-76" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="FDA-Analyzer.exe" vertex="1">
+          <mxGeometry height="52" width="240" x="1760" y="760" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-77" parent="NRrbPcQXKySkECFJ4wdb-76" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Описание" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="2020" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-80" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="FDA_web_app.py (вырезано)" vertex="1">
+          <mxGeometry height="52" width="160" x="1800" y="640" as="geometry">
+            <mxRectangle height="26" width="160" x="550" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRrbPcQXKySkECFJ4wdb-81" parent="NRrbPcQXKySkECFJ4wdb-80" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="Развернуть веб интерфейс" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
