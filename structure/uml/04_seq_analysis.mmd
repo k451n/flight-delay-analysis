@@ -1,0 +1,37 @@
+sequenceDiagram
+    actor U as Пользователь
+    participant A as AnalyzeTab
+    participant T as Task (поток)
+    participant P as FDA_pipeline
+    participant I as FDA_import
+    participant M as FDA_main_analyzer
+    participant B as Backend (C++ / Python)
+    participant R as ResultsTab
+    participant FS as Файлы runs/
+
+    U->>A: выбирает CSV, параметры, «Запустить»
+    A->>A: _spec() собирает DataSpec
+    A->>T: Task(job).start()
+    activate T
+    T->>P: run_analysis(spec, name, windows, backend…)
+    P->>M: select_backends() (поиск aviation_analysis.dll)
+    M-->>P: HpcBackend или PythonBackend
+    P->>I: build_dataset(spec, backend)
+    I->>I: чтение CSV, часовой пояс → UTC
+    I->>M: assemble_dataset(погода, METAR, рейсы)
+    M->>B: preprocess_visibility (мили → км)
+    I-->>P: ImportResult (ds, warnings)
+    P->>FS: hourly_dataset_*.csv
+    P->>M: analyze_airport(ds, backend)
+    loop цель × окно (24, 168 ч) × признак
+        M->>B: rolling_correlation(x, y, window)
+        B-->>M: массив r
+    end
+    M->>FS: correlations_static, rolling_*, rolling_summary
+    P->>FS: run_info.json
+    P-->>T: результат (outdir, backend, seconds)
+    deactivate T
+    T-->>A: on_done (в потоке интерфейса)
+    A->>R: open_run(outdir)
+    R->>FS: загрузка результатов
+    R-->>U: графики и таблицы на вкладке «Результаты»

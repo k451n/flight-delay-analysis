@@ -1,0 +1,27 @@
+sequenceDiagram
+    actor U as Пользователь
+    participant BT as BenchTab
+    participant T as Task (поток)
+    participant B as FDA_bench
+    participant L as aviation_analysis.dll
+    participant W as fda-cli.exe worker
+    participant FS as benchmarks/
+
+    U->>BT: настраивает размеры, окна, потоки, «Измерить»
+    BT->>T: Task(job).start()
+    activate T
+    T->>B: run_benchmark(cfg, progress)
+    B->>B: load_cpp() (ищет DLL рядом с exe)
+    B->>L: run_cases: C++ (ctypes)
+    B->>B: run_cases: NumPy и чистый Python
+    Note over B: сверка результатов с NumPy (max_abs_diff)
+    loop для каждого числа потоков t
+        B->>W: subprocess, OMP_NUM_THREADS=t
+        W->>L: run_cases (только C++)
+        W-->>B: JSON в stdout (FDA_BENCH_JSON)
+    end
+    B-->>T: records, meta
+    T->>B: save_results()
+    B->>FS: benchmark_*.csv
+    T-->>BT: on_done (progress, результат)
+    BT-->>U: графики времени, ускорения, масштабирования

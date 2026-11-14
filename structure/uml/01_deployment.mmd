@@ -1,0 +1,37 @@
+flowchart TB
+    user(["Пользователь<br/>(Windows, без установленного Python)"])
+
+    subgraph dist["«artifact» dist/FDA-Analyzer/ (zip-архив FDA-Analyzer.zip)"]
+        direction TB
+        gui["FDA-Analyzer.exe<br/>оконное приложение (Tkinter)"]
+        cli["fda-cli.exe<br/>консоль: info, analyze, plots, bench, worker"]
+        internal["_internal/<br/>Python, NumPy, pandas, matplotlib,<br/>модули FDA_*.py (PyInstaller)"]
+        dll["aviation_analysis.dll<br/>C++ ядро (OpenMP, SIMD)"]
+        msmpi["msmpi.dll<br/>MS-MPI (зависимость библиотеки)"]
+        readme["README.txt"]
+        subgraph data["data/"]
+            author["author_results/<br/>результаты автора + benchmark.csv"]
+            examples["examples/<br/>учебные CSV (синтетика)"]
+        end
+    end
+
+    subgraph home["Рабочая папка пользователя ~/FDA_Analyzer (FDA_HOME)"]
+        runs["runs/<br/>результаты запусков"]
+        bench["benchmarks/<br/>benchmark_*.csv"]
+    end
+
+    csv[("CSV пользователя<br/>почасовой или weather + flights + metar")]
+
+    user -->|запускает| gui
+    user -.->|консоль| cli
+    gui -. "использует" .-> internal
+    cli -. "использует" .-> internal
+    gui -->|"ctypes: загрузка"| dll
+    cli -->|"ctypes: загрузка"| dll
+    dll --> msmpi
+    gui -->|читает| author
+    gui -->|читает| examples
+    csv -->|импорт| gui
+    gui -->|пишет| runs
+    gui -->|пишет| bench
+    gui -->|"subprocess: worker<br/>OMP_NUM_THREADS=1,2,4…"| cli

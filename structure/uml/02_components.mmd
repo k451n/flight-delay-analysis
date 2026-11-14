@@ -1,0 +1,37 @@
+flowchart LR
+    subgraph ui["Слой интерфейса"]
+        app["FDA_desktop_app<br/>App, AnalyzeTab,<br/>ResultsTab, BenchTab, Task"]
+    end
+    subgraph logic["Слой логики"]
+        imp["FDA_import<br/>DataSpec, ImportResult,<br/>build_dataset"]
+        pipe["FDA_pipeline<br/>run_analysis, пути,<br/>list_runs"]
+        res["FDA_results<br/>чтение и пересчёт<br/>результатов"]
+        plots["FDA_results_plots<br/>Context, графики"]
+        bench["FDA_bench<br/>BenchConfig,<br/>run_benchmark"]
+        main["FDA_main_analyzer<br/>assemble_dataset,<br/>analyze_airport"]
+    end
+    subgraph backends["Вычислительные бэкенды"]
+        hpc["HpcBackend<br/>ctypes"]
+        py["PythonBackend<br/>NumPy"]
+    end
+    lib[["aviation_analysis.dll<br/>compute_rolling_correlation<br/>preprocess_weather_vectors"]]
+    fs[("Файлы: CSV, run_info.json,<br/>PNG, benchmark.csv")]
+    build["FDA_build_dist<br/>сборка дистрибутива"]
+
+    app --> imp
+    app --> pipe
+    app --> res
+    app --> plots
+    app --> bench
+    pipe --> imp
+    pipe --> main
+    imp --> main
+    bench --> main
+    plots --> res
+    main --> hpc
+    main --> py
+    hpc --> lib
+    pipe --> fs
+    res --> fs
+    bench --> fs
+    build -. "упаковывает всё<br/>в FDA-Analyzer.exe" .-> app

@@ -1,0 +1,94 @@
+classDiagram
+    direction LR
+    class App {
+        +analyze_tab
+        +results_tab
+        +bench_tab
+        +set_status(text)
+        +select_tab(index)
+    }
+    class AnalyzeTab {
+        +check()
+        +run()
+        -_spec() DataSpec
+    }
+    class ResultsTab {
+        +open_run(path)
+        +load(path)
+        +redraw()
+        +save_all()
+    }
+    class BenchTab {
+        +run()
+        +open_saved()
+        +open_author()
+        +redraw()
+    }
+    class Task {
+        +start()
+        -_run()
+        -_poll()
+    }
+    class DataSpec {
+        +kind
+        +hourly
+        +weather
+        +flights
+        +metar
+        +naive_tz
+        +delay_field
+        +direction
+    }
+    class ImportResult {
+        +ds
+        +notes
+        +warnings
+    }
+    class ImportProblem
+    class BenchConfig {
+        +sizes
+        +windows
+        +repeats
+        +threads
+        +impls
+    }
+    class HpcBackend {
+        +name = hpc
+        +preprocess_visibility()
+        +rolling_correlation()
+    }
+    class PythonBackend {
+        +name = python
+        +preprocess_visibility()
+        +rolling_correlation()
+    }
+    class WeatherRecord {
+        «ctypes.Structure»
+    }
+    class AviationAnalysisDLL {
+        «C++ библиотека»
+        compute_rolling_correlation()
+        preprocess_weather_vectors()
+    }
+    class Context {
+        +results_dir
+        +airports
+        +save(fig, name)
+    }
+
+    App *-- AnalyzeTab
+    App *-- ResultsTab
+    App *-- BenchTab
+    AnalyzeTab ..> Task : фоновый поток
+    BenchTab ..> Task
+    ResultsTab ..> Task
+    AnalyzeTab ..> DataSpec : создаёт
+    AnalyzeTab --> ResultsTab : открывает результат
+    DataSpec ..> ImportResult : build_dataset()
+    ImportProblem --|> ValueError
+    HpcBackend ..> WeatherRecord
+    HpcBackend ..> AviationAnalysisDLL : ctypes
+    BenchTab ..> BenchConfig
+    ResultsTab --> Context
+    AnalyzeTab ..> HpcBackend : backend auto/hpc
+    AnalyzeTab ..> PythonBackend : backend python
