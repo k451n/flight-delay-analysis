@@ -216,3 +216,69 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==============================================================================
+# Flight Delay Analysis: специфика проекта
+# ==============================================================================
+
+# Секреты и ключи (RAPIDAPI_KEY, строки подключения к MongoDB)
+.env.*
+*.key
+secrets.*
+
+# Кэш сырых ответов сборщиков данных (AeroDataBox, Open-Meteo, METAR)
+raw_aerodatabox/
+raw_weather/
+
+# Результаты расчётов, графики и бенчмарки (создаются скриптами)
+results/
+plots/
+benchmarks/
+runs/
+hourly_dataset_*.csv
+correlations_static_*.csv
+rolling_summary_*.csv
+rolling_*_w*_*.csv
+run_info.json
+benchmark_*.csv
+
+# Рабочая папка приложения (переменная FDA_HOME) и собранный дистрибутив
+FDA_Analyzer/
+dist/
+FDA-Analyzer.zip
+
+# C++: сборка CMake/MSVC
+cpp/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+*.dll
+*.dylib
+*.exe
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Данные MongoDB
+data/db/
+mongod.log
+
+# IDE и ОС
+.idea/
+.vs/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+*.drawio.bkp
+.$*.bkp
+.$*.dtmp
+
+# Примеры датасетов (dataset/example_*.csv) и диаграммы (structure/) остаются в Git
+!dataset/example_*.csv
+!structure/diagram.png
